@@ -3,32 +3,32 @@
 From [https://en.wikibooks.org/wiki/Cookbook:Arroz_con_Gandules](https://en.wikibooks.org/wiki/Cookbook:Arroz_con_Gandules)
 
 ## Ingredients
-½ cup extra virgin olive oil
-1 tablespoon achiote (annatto) seeds
-1 cup Sofrito (recipe below)
-3 tablespoons of Alcaparrado (manzanilla olives, pimientos and capers) or coarsely chopped pimiento manzanilla and stuffed olives
-3 tablespoons of salt
-1 tablespoon of fresh cracked black pepper
-2 teaspoons of cumin seeds or ground cumin
-2 teaspoons of coriander seeds or ground coriander
-1 pound smoked ham hock or smoked turkey skin removed and chopped
-1 pound of Puerto Rican salami, ham or chorizo diced
-6 cups of long grain rice (do not rinse)
-A 13 ounce bag of frozen pigeon peas or a 15 ounce can of pigeon peas drained and rinsed
-Beef, chicken, turkey or vegetable broth. Home made is best but you can use store bought or water (about 7½ cups)
-3 bay leaves
-1 banana leaf or plantain leaf (optional)
+* ½ cup extra virgin olive oil
+* 1 tablespoon achiote (annatto) seeds
+* 1 cup Sofrito (recipe below)
+* 3 tablespoons of Alcaparrado (manzanilla olives, pimientos and capers) or coarsely chopped pimiento manzanilla and stuffed olives
+* 3 tablespoons of salt
+* 1 tablespoon of fresh cracked black pepper
+* 2 teaspoons of cumin seeds or ground cumin
+* 2 teaspoons of coriander seeds or ground coriander
+* 1 pound smoked ham hock or smoked turkey skin removed and chopped
+* 1 pound of Puerto Rican salami, ham or chorizo diced
+* 6 cups of long grain rice (do not rinse)
+* A 13 ounce bag of frozen pigeon peas or a 15 ounce can of pigeon peas drained and rinsed
+* Beef, chicken, turkey or vegetable broth. Home made is best but you can use store bought or water (about 7½ cups)
+* 3 bay leaves
+* 1 banana leaf or plantain leaf (optional)
 
 **For the Sofrito**
 
-2 medium Spanish onions, cut into large chunks
-3 to 4 Italian frying peppers or cubanelle peppers
-16 to 20 cloves garlic, peeled
-1 large bunch cilantro, washed
-7 to 10 ajices dulces (sweet chili peppers), optional
-4 leaves of culantro (recao), or another handful of cilantro
-3 to 4 ripe plum tomatoes, seeded, cored and cut into chunks
-1 large red bell pepper, cored, seeded and cut into large chunks
+* 2 medium Spanish onions, cut into large chunks
+* 3 to 4 Italian frying peppers or cubanelle peppers
+* 16 to 20 cloves garlic, peeled
+* 1 large bunch cilantro, washed
+* 7 to 10 ajices dulces (sweet chili peppers), optional
+* 4 leaves of culantro (recao), or another handful of cilantro
+* 3 to 4 ripe plum tomatoes, seeded, cored and cut into chunks
+* 1 large red bell pepper, cored, seeded and cut into large chunks
 
 ## Procedure
 1. Chop the onion and cubanelle or Italian peppers in the work bowl of a food processor until coarsely chopped.
