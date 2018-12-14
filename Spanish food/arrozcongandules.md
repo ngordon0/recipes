@@ -2,6 +2,11 @@
 
 From [https://en.wikibooks.org/wiki/Cookbook:Arroz_con_Gandules](https://en.wikibooks.org/wiki/Cookbook:Arroz_con_Gandules)
 
+<a href="https://www.youtube.com/embed/AU5tM28hENQ
+" target="_blank"><img src="https://youtu.be/AU5tM28hENQ/0.jpg" 
+alt="Watch video" width="240" height="180" border="10" /></a>
+
+
 ## Ingredients
 * ½ cup extra virgin olive oil
 * 1 tablespoon achiote (annatto) seeds
