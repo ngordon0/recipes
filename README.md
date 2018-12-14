@@ -1,4 +1,4 @@
 # Recipes
-my favorite recipes
+My favorite recipes.
 
 **These are my favorite recipes!**
